@@ -6,6 +6,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
+    {/* Chakra is new for me )), I test how the theme works */}
     <ChakraProvider>
       <App />
     </ChakraProvider>
